@@ -1,0 +1,30 @@
+_repo: Handy-Andy-Volume-OneA-Tale-of-Irish-Life-in-Two-Volumes_21817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lover, Samuel
+    alias: Lover, S. (Samuel)
+    birthdate: 1797
+    deathdate: 1868
+    gutenberg_agent_id: '2365'
+    url: http://www.gutenberg.org/2009/agents/2365
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Lover
+description: ''
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Fiction'
+title: 'Handy Andy, Volume One
+
+  A Tale of Irish Life, in Two Volumes'
+url: http://www.gutenberg.org/ebooks/21817
